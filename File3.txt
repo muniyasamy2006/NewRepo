@@ -1,1 +1,2 @@
 File3 has been added.
+Re-adding it.
